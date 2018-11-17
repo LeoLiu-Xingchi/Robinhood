@@ -1,5 +1,7 @@
 package com.http;
 
+import com.sun.deploy.net.HttpRequest;
+
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.HashMap;
